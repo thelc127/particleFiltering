@@ -1,0 +1,1 @@
+This repository contains the implementation of particle filtering and exact inference for random Dynamic Bayesian Networks (DBNs), including random query selection, parent subset conditioning, simulated evidence, and result visualization.
